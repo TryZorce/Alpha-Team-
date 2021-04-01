@@ -19,7 +19,7 @@ Suivie du tuto de [Pierre giraud](https://www.pierre-giraud.com/html-css-apprend
 ### Journée :
 Ajout de mes formations , liens , Profil sololearn , ajout d'un vraie texte au lieu du Lorem ipsum , Ajout de mes données personnel/contact et possibilité de télécharger mon cv , Ajout d'un numéro et d'un email Cliquable 
 
-Gros mal de tête l'après midi Surêment (insolasion)
+Gros mal de tête l'après midi Surêment insolasion
 
 ### Soir : 
 
