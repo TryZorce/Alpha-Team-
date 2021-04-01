@@ -29,4 +29,4 @@ Repos
 
 ### Journée 
 
- Ajout de logo Bootstrap, Mise en forme des document pour améliorer la lecture, Ajout du responsive en bootstrap
+ Ajout de logo Bootstrap, Mise en forme des document pour améliorer la lecture, Ajout du responsive en bootstrap , Tuto Javascript
