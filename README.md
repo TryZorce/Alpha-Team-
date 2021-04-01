@@ -4,7 +4,7 @@
 
 ### Journée : 
 
-Test de codes inconnue (Section , Header , Footer ) et renseignement sur le bootstrap grace a des [Tutos](https://www.youtube.com/watch?v=gm2RCfjXS3s)
+Test de codes inconnue (Section , Header , Footer ) et renseignement sur le bootstrap grace a des [Tutos](https://www.youtube.com/watch?v=gm2RCfjXS3s) et apprentisage des outils Visual Studio code et Sourcetree , Ajout des extensions Css Formatter French language Pack et Live Server
 
 Modification du hover   
 
