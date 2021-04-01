@@ -8,7 +8,9 @@ Test de codes inconnue (Section , Header , Footer ) et renseignement sur le boot
 
 ### Soir : 
 
-Suivie du tuto de Pierre giraud pour savoir comment bien utilisé et car j'aimais bien la présentation de son cv 
+Suivie du tuto de [Pierre giraud](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/creation-page-cv-responsive/) pour savoir comment bien utilisé et car j'aimais bien la présentation de son cv 
+
+-----------------
 
 ## Jour 2 :
 
@@ -21,8 +23,10 @@ Gros mal de tête l'après midi (Surêment insolasion)
 
 Repos
 
+-----------------
+
 ## Jour 3 :
 
-## Journée 
+### Journée 
 
  Ajout de logo Bootstrap, Mise en forme des document pour améliorer la lecture, Ajout du responsive en bootstrap
